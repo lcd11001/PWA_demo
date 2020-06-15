@@ -45,3 +45,16 @@ body, html {
   display: none;
   opacity: 0;
 }
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.reloadLink {
+  cursor: pointer;
+  color: #fa923f;
+}
